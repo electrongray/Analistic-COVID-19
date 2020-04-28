@@ -1,1 +1,1 @@
-# Analistic-COVID-19
+# Analistics-COVID-19
